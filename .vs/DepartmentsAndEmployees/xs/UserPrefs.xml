@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{7E8A304C-5D97-4146-82B1-4837002EA227}|Default">
+  <MonoDevelop.Ide.ItemProperties.DepartmentsAndEmployees PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DepartmentsAndEmployees/Repository.cs">
+    <Files>
+      <File FileName="DepartmentsAndEmployees/Program.cs" Line="1" Column="1" />
+      <File FileName="DepartmentsAndEmployees/Repository.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DepartmentsAndEmployees" expanded="True">
+            <Node name="DepartmentsAndEmployees" expanded="True">
+              <Node name="Repository.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,11 @@
+Z:\DepartmentsAndEmployees\DepartmentsAndEmployees\obj\Debug\netcoreapp2.1\DepartmentsAndEmployees.csprojAssemblyReference.cache
+Z:\DepartmentsAndEmployees\DepartmentsAndEmployees\obj\Debug\netcoreapp2.1\DepartmentsAndEmployees.csproj.CoreCompileInputs.cache
+Z:\DepartmentsAndEmployees\DepartmentsAndEmployees\obj\Debug\netcoreapp2.1\DepartmentsAndEmployees.AssemblyInfoInputs.cache
+Z:\DepartmentsAndEmployees\DepartmentsAndEmployees\obj\Debug\netcoreapp2.1\DepartmentsAndEmployees.AssemblyInfo.cs
+Z:\DepartmentsAndEmployees\DepartmentsAndEmployees\bin\Debug\netcoreapp2.1\DepartmentsAndEmployees.deps.json
+Z:\DepartmentsAndEmployees\DepartmentsAndEmployees\bin\Debug\netcoreapp2.1\DepartmentsAndEmployees.runtimeconfig.json
+Z:\DepartmentsAndEmployees\DepartmentsAndEmployees\bin\Debug\netcoreapp2.1\DepartmentsAndEmployees.runtimeconfig.dev.json
+Z:\DepartmentsAndEmployees\DepartmentsAndEmployees\bin\Debug\netcoreapp2.1\DepartmentsAndEmployees.dll
+Z:\DepartmentsAndEmployees\DepartmentsAndEmployees\bin\Debug\netcoreapp2.1\DepartmentsAndEmployees.pdb
+Z:\DepartmentsAndEmployees\DepartmentsAndEmployees\obj\Debug\netcoreapp2.1\DepartmentsAndEmployees.dll
+Z:\DepartmentsAndEmployees\DepartmentsAndEmployees\obj\Debug\netcoreapp2.1\DepartmentsAndEmployees.pdb
